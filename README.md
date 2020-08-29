@@ -20,6 +20,7 @@ Tutorial
  
  -It is recommended to use 'Fade' effect, with no rotation on
 
+Example: Regular Mxing Mode
 
 ![](example_images/regular.png)
-Example: Regular Mxing Mode
+
