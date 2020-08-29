@@ -19,3 +19,6 @@ Tutorial
 -You can then click on the 'Fade' button which cycles through textures by fading them on top of each other
  
  -It is recommended to use 'Fade' effect, with no rotation on
+
+Example: Regular Mxing Mode
+![](example_images/regular.png)
